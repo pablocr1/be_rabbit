@@ -1,0 +1,40 @@
+# Database
+initdb/dumps/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.idea
+.idea/
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Elastic Beanstalk Files
+.elasticbeanstalk
+.ebextensions
+.idea
+node_modules
+#Tester
+cypress/screenshots/*
+cypress/videos/*
+static/*.xlsx
+node_modules
+
+# Docker mysql
+/get-pip.py
+/.vscode/
+.DS_Store
+.idea
+node_modules
+#Tester
+cypress/screenshots/*
+cypress/videos/*
+static/*.xlsx
+node_modules
